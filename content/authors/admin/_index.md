@@ -69,6 +69,6 @@ Kesong Cao is a graduating senior (4th year undergrad) at UW-Madison. He enjoys 
 
 His broad research interests are languages and human behaviors.
 
-At UW-Madison, He has gained rewarding experience in building web apps, tackling research questions, TAing an Operating Systems class, and constantly managing time and expectations. He takes courses all over the place in Comp Sci, Econ, Math, Stats, Psychology, Political Science, History, and even Dance and Accounting.
+At UW-Madison, he has gained rewarding experience in building web apps, tackling research questions, TAing an Operating Systems class, and constantly managing time and expectations. He takes courses all over the place in Comp Sci, Econ, Math, Stats, Psychology, Political Science, History, and even Dance and Accounting.
 
 __Kesong is seeking full-time employment in or after December 2020 as a researcher or software developer.__ He plans to apply for PhD programs in Computer Science starting Fall 2021.
