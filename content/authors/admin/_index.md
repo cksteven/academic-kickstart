@@ -21,13 +21,14 @@ organizations:
 bio: I am still exploring!
 
 interests:
+- Languages
 - Natural Language Processing
-- Cognitive Science
-- Behavioral Economics
+- Reinforcement Learning
+- Societal Computing
 
 education:
   courses:
-  - course: BA in Computer Science and Economics
+  - course: B.A. in Computer Science and Economics
     institution: University of Wisconsin-Madison
     year: (Expected) December 2020
 
@@ -64,6 +65,10 @@ email: "kcao22@wisc.edu"
 # - Visitors
 ---
 
-Kesong Cao is a senior (4th) year undergraduate student at UW-Madison. He works at Austerweil Lab as a research assistant. He is developing his research interests in understanding human behaviors and their incentives. He loves programming and solving problems in general. He looks forward to diving deeper into natural language processing in graduate school.
+Kesong Cao is a graduating senior (4th year undergrad) at UW-Madison. He enjoys coding and problem-solving in general. He hopes to become a computational linguist that can do great research and/or engineering.
+
+His broad research interests are languages and human behaviors.
+
+At UW-Madison, He has gained rewarding experience in building web apps, tackling research questions, TAing an Operating Systems class, and constantly managing time and expectations. He takes courses all over the place in Comp Sci, Econ, Math, Stats, Psychology, Political Science, History, and even Dance and Accounting.
 
 __Kesong is seeking full-time employment in or after December 2020 as a researcher or software developer.__ He plans to apply for PhD programs in Computer Science starting Fall 2021.
